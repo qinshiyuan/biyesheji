@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#54a9ea",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "卡券商品收藏展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

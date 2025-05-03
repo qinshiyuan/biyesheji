@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#54a9ea",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "卡券商城销售系统首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

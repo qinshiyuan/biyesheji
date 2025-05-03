@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#54a9ea",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "卡券商品评价展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
